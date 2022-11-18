@@ -12,7 +12,6 @@ federate:
   # unseen_clients_rate: 0.2
   client_num: 100
   weight_avg: False
-  # save_to: /mnt/zeyuqin/backdoor_surv/save/fl/ftsetting_15.pth
 data:
   seed: 2333
   dataset: ['train', 'val', 'test', 'poison']

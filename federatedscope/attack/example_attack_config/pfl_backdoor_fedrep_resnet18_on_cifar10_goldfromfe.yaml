@@ -12,7 +12,6 @@ federate:
   sample_client_rate: 0.1
   # unseen_clients_rate: 0.2
   client_num: 100
-  # save_to: /mnt/zeyuqin/FederatedScope/exp/fedrep_resnet18_on_CIFAR10@torchvision_lr0.1_lepoch2/model_sig.pth
 personalization:
   K: 5
   beta: 1.0

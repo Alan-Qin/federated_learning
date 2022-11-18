@@ -13,7 +13,6 @@ federate:
   sample_client_rate: 0.1
   # unseen_clients_rate: 0.2
   client_num: 100
-  # save_to: /mnt/zeyuqin/backdoor_surv/save/fl/ftsetting_15.pth
 data:
   dataset: ['train', 'val', 'test', 'poison']
   root: data/
